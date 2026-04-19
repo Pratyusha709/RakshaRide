@@ -25,7 +25,7 @@ Frontend:
 - JavaScript
 - jQuery
 
-Backend (if used):
+Backend :
 - Node.js
 - OpenStreet Map
 - gemini 2.5 flash
