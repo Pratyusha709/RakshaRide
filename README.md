@@ -4,7 +4,7 @@ RakshaRide is a smart, web-based women safety platform designed to provide real-
 
 ---
 
-## ⚙️ Features
+##  Features
 
 -  Real-Time Location Tracking  
 -  Ride Verification using Vehicle Number  
@@ -32,7 +32,7 @@ Backend (if used):
 - Nodemailer
 ---
 
-## 🔄 User Flow
+##  User Flow
 
 1. User opens the platform in browser  
 2. Enters vehicle number and ride details  
@@ -45,7 +45,7 @@ Backend (if used):
 
 ---
 
-## 🎯 Impact & Use Cases
+##  Impact & Use Cases
 
 - Late-night travel safety  
 - Cab and auto ride monitoring  
