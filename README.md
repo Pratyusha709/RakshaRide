@@ -56,3 +56,7 @@ Backend :
 - Increased confidence for solo travelers  
 
 ---
+## UI 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/54e3ba1c-d569-4f03-bc2b-c767151a59ae" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7e6958f9-a395-4eab-9550-e456bce8278c" />
+
