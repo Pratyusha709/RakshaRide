@@ -1,29 +1,23 @@
-# 🚨 RakshaRide – AI-Powered Smart Women Safety & Ride Monitoring System
+#  RakshaRide – AI-Powered Smart Women Safety & Ride Monitoring System
 
-RakshaRide is a smart, web-based women safety platform designed to provide real-time ride monitoring and emergency support. It helps users travel safely by tracking their journey, detecting unusual activities, and sending alerts to trusted contacts.
-
----
-
-## 💡 What is RakshaRide?
-
-RakshaRide is a browser-based safety system that works instantly without installing any app. It tracks user location in real-time, verifies ride details, detects route deviations, and sends emergency alerts when needed.
+RakshaRide is a smart, web-based women safety platform designed to provide real-time ride monitoring and emergency support. It helps users travel safely by tracking their journey, detecting unusual activities, and sending alerts to trusted contacts.It works instantly without installing any app. It tracks user location in real-time, verifies ride details, detects route deviations, and sends emergency alerts when needed.
 
 ---
 
 ## ⚙️ Features
 
-- 📍 Real-Time Location Tracking  
-- 🚗 Ride Verification using Vehicle Number  
-- 🛣️ Route Monitoring & Deviation Detection  
-- 🚨 Panic Button for Emergency Alerts  
-- 🎤 Voice Activation for Emergency Help  
-- 📩 Live Location Sharing with Trusted Contacts  
-- 🤖 Chatbot Assistance During Ride  
-- ✅ Safe Journey Completion Notification  
+-  Real-Time Location Tracking  
+-  Ride Verification using Vehicle Number  
+-  Route Monitoring & Deviation Detection  
+-  Panic Button for Emergency Alerts  
+-  Voice Activation for Emergency Help  
+-  Live Location Sharing with Trusted Contacts  
+-  Chatbot Assistance During Ride  
+-  Safe Journey Completion Notification  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 Frontend:
 - HTML
@@ -32,12 +26,10 @@ Frontend:
 - jQuery
 
 Backend (if used):
-- Node.js / Python (optional)
-
-Other Tools:
-- Google Maps API (for tracking)
-- AI Chatbot Integration
-
+- Node.js
+- OpenStreet Map
+- gemini 2.5 flash
+- Nodemailer
 ---
 
 ## 🔄 User Flow
